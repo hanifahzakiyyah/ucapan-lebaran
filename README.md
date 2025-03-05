@@ -7,7 +7,7 @@ Proyek ini merupakan website showcase interaktif berbasis **Threejs**, di mana p
 ## 🔗 Akses Website
 
 Kamu bisa langsung mengakses website ini di:
-👉 [https://hzs-studio.com](https://hzs-studio.com)
+👉 [https://hzs-studio.com](https://hzs-studio.vercel.app/lebaran)
 
 ## 🖼️ Preview
 
