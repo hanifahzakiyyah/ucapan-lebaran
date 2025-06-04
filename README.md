@@ -1,36 +1,34 @@
-# HZS Studio - Showcase Interaktif 3D
+# HZS Studio - Interactive 3D Showcase
 
-Selamat datang di repository proyek **HZS Studio**! 🚀
+Welcome to the **HZS Studio** project repository! 🚀
 
-Proyek ini merupakan website showcase interaktif berbasis **Threejs**, di mana pengguna dapat berinteraksi dengan model 3D secara real-time. Website ini dibangun dengan teknologi modern untuk memberikan pengalaman eksplorasi produk yang lebih menarik.
+This project is an interactive showcase website built with **Three.js**, where users can interact with 3D models in real-time. The website is developed using modern technologies to provide a more engaging product exploration experience.
 
-## 🔗 Akses Website
+## 🔗 Website Access
 
-Kamu bisa langsung mengakses website ini di:
+You can access the website directly at:  
 👉 [https://hzs-studio.com](https://hzs-studio.vercel.app/lebaran)
 
 ## 🖼️ Preview
 
-Berikut tampilan dari proyek ini:
+Here is a preview of the project:  
 ![Preview](https://hzs-studio.vercel.app/porto/web-lebaran.webp)
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Technologies Used
 
-- **React.js** - Library JavaScript untuk membangun UI interaktif.
-- **React Three Fiber (R3F)** - Untuk rendering dan interaksi 3D di dalam website.
-- **Three.js** - Library grafis 3D berbasis WebGL.
+- **React.js** – A JavaScript library for building interactive UIs.  
+- **React Three Fiber (R3F)** – For rendering and interacting with 3D in the website.  
+- **Three.js** – A 3D graphics library based on WebGL.
 
-## 📌 Fitur Utama
+## 📌 Main Features
 
-✅ **Interaksi Model 3D** - Rotate, zoom, dan eksplorasi objek secara real-time.  
-✅ **Animasi Halus** - Transisi interaktif untuk pengalaman yang lebih menarik.  
+✅ **3D Model Interaction** – Rotate, zoom, and explore the object in real-time.  
+✅ **Smooth Animations** – Interactive transitions for a more engaging experience.
 
+## 📞 Contact
 
-## 📞 Kontak
-
-Jika ada pertanyaan atau ingin bekerja sama, silakan hubungi:
+If you have any questions or want to collaborate, please contact:  
 📧 Email: contact@hzs-studio.com  
 🌐 Website: [https://hzs-studio.com](https://hzs-studio.com)
 
-Terima kasih telah mengunjungi repository ini! Semoga bermanfaat! 😊🎨🚀
-
+Thank you for visiting this repository! Hope you find it useful! 😊🎨🚀
