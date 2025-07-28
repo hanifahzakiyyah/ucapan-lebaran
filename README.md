@@ -28,7 +28,7 @@ Here is a preview of the project:
 ## 📞 Contact
 
 If you have any questions or want to collaborate, please contact:  
-📧 Email: contact@hzs-studio.com  
+📧 Email: hanifahzakiyyatus@gmail.com
 🌐 Website: [https://hzs-studio.com](https://hzs-studio.com)
 
 Thank you for visiting this repository! Hope you find it useful! 😊🎨🚀
